@@ -1,23 +1,21 @@
 # Hi there, I'm Tommaso Maitino 👋
 
-🎓 **Master's Student in Data Science & Business Informatics** at Pisa University | Based in Italy
+🎓 **MSc Student in Data Science & Business Informatics** at University of Pisa | BSc in Physics 
 
-I'm a data science student currently wrapping up my Master's degree. I am passionate about machine learning, time series analysis, and turning complex data into actionable insights. I'm currently taking my first steps into the open-source world and looking forward to contributing to impactful projects!
-
-### 🎯 Current Focus
-- 🔭 **GSoC 2026:** Actively exploring the `sktime` ecosystem and time series anomaly detection for Google Summer of Code.
-- 🌱 **Learning:** Deepening my knowledge in Deep Learning architectures with PyTorch and advanced Scikit-learn integrations.
-- 👯 **Looking to collaborate on:** Open-source Data Science tools and beginner-friendly issues in Python.
+I'm a Data Science student currently wrapping up my Master's degree, with a solid background in Physics and Mathematics. I am passionate about Machine Learning, Data Analytics, and turning complex data into actionable insights. Currently, my main goal is to find a curricular internship for my master's thesis, applying advanced data modeling and AI techniques to solve complex business problems.
 
 ### 🛠️ Tech Stack & Tools
-* **Languages:** Python, SQL, R
-* **Libraries:** Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow, Matplotlib, Plotly
-* **Big Data & Data Engineering:** PySpark, SQL Server Integration Services (SSIS), SQL Server Analysis Services (SSAS)
-* **Business Intelligence:** Power BI
-* **Tools & Env:** Git, GitHub, Jupyter Notebooks
+
+*   **Languages:** Python, R, SQL, PySpark
+*   **Machine Learning, DS & Viz:** Scikit-learn, PyTorch, XGBoost, Pandas, NumPy, Matplotlib, Seaborn, Plotly, SHAP
+*   **Data Engineering & BI:** PostgreSQL, Microsoft SQL Server, SSIS, SSAS (MDX), Power BI, Apache Spark
+*   **Tools & Env:** Git, GitHub, Jupyter, LaTeX, Overleaf
 
 ### 📫 Let's Connect
-- **Email:** tommasomaitino@gmail.com
+
+*   **Email:** tommasomaitino@gmail.com
+*   **LinkedIn:** [https://www.linkedin.com/in/tommaso-maitino]
 
 ---
+
 *"Always eager to learn, experiment, and write clean code."*
