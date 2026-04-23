@@ -2,7 +2,7 @@
 
 🎓 **MSc Student in Data Science & Business Informatics** at University of Pisa | BSc in Physics 
 
-I'm a Data Science student currently wrapping up my Master's degree, with a solid background in Physics and Mathematics. I am passionate about Machine Learning, Data Analytics, and turning complex data into actionable insights. Currently, my main goal is to find a curricular internship for my master's thesis, applying advanced data modeling and AI techniques to solve complex business problems.
+I'm a Data Science student currently wrapping up my Master's degree, with a solid background in Physics and Mathematics. I am passionate about Machine Learning, Data Analytics, and turning complex data into actionable insights. Currently, my main goal is to find a curricular internship for my master's thesis, applying advanced data modeling and AI techniques to solve complex scientific and industrial challenges.
 
 ### 🛠️ Tech Stack & Tools
 
